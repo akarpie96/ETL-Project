@@ -1,5 +1,6 @@
 # ETL-Project
 
+Group Members: Ken Yeh, Tiffany Cheng, Aaron Karpie
 
 # Sources 
 
